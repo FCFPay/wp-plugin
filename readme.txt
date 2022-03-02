@@ -1,6 +1,6 @@
 === FCF-Pay ===
 Author URI: https://fcfpay.com/
-Plugin URI: https://fcf-pay.com/
+Plugin URI: https://fcfpay.com
 Donate link: 
 Contributors: Valadanchik
 Tags: Crypto payemt, Payment, Gateway, FCFpay, cryptocurrrency payemt
