@@ -133,7 +133,7 @@ class Fcf_Pay_Endpoints{
         $deposited = $request['data']["deposited"];
         $state = $request['data']["processing_state"];
         $currency = $request['data']["currency"];
-        $deposited_amount = $request['data']["deposited_amount"] / pow(10, $request['data']["decimal"]);
+        $deposited_amount = $request['data']["fiat_amount"];
         $order = wc_get_order($order_id);
 
         if (!$order) {
