@@ -34,6 +34,7 @@ FCF Pay will feature a variety of popular cryptocurrencies that you can use to p
 Furthermore, when you make a purchase through FCF Pay, your purchase history will show that a purchase was made through “French Connection Finance” instead of displaying any merchant information. This means that your purchases are made anonymously.
 
 
+
 == Installation ==
 
 1. Go to `Plugins` in the Admin menu
